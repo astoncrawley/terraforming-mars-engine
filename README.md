@@ -13,4 +13,5 @@ This project analyses the board game "Terraforming Mars" using information from 
 
 ## 🛠️ Tools & Libraries
 - Python (3.10+)  
-- NumPy  
+- NumPy
+- TensorFlow
